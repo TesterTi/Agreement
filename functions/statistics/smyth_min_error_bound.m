@@ -27,7 +27,7 @@ function error_bound = smyth_min_error_bound(annotations)
 %
 %	T. Lampert, A. Stumpf, and P. Gancarski, 'An Empirical Study into 
 %       Annotator Agreement, Ground Truth Estimation, and Algorithm 
-%       Evaluation', (submitted).
+%       Evaluation', IEEE Transactions on Image Processing (accepted).
 %
 %
 %

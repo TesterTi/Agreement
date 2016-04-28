@@ -25,7 +25,8 @@ function dist = f_distance(d1, d)
 %
 %	T. Lampert, A. Stumpf, and P. Gancarski, 'An Empirical Study into 
 %       Annotator Agreement, Ground Truth Estimation, and Algorithm 
-%       Evaluation', IEEE Transactions on Image Processing (accepted).
+%       Evaluation', IEEE Transactions on Image Processing 25 (6): 
+%       2557–2572, 2016.
 %
 %
 %

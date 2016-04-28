@@ -65,7 +65,8 @@ function [xs, ys, aucs, thresholds, h1, a1] = agreement_curves(detection, agreem
 %
 %	T. Lampert, A. Stumpf, and P. Gancarski, 'An Empirical Study into 
 %       Annotator Agreement, Ground Truth Estimation, and Algorithm 
-%       Evaluation', IEEE Transactions on Image Processing (accepted).
+%       Evaluation', IEEE Transactions on Image Processing 25 (6): 
+%       2557–2572, 2016.
 %
 %
 %

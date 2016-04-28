@@ -7,9 +7,9 @@ ANR Cosinus, ANR-10-COSI-012-03-FOSTER, 2011—2014): http://foster.univ-nc.nc/
 
 ## Introduction
 
-This toolbox accompanies the paper:
+This toolbox accompanies the paper (a copy is included in the example_case_study subdirectory):
 
-T. Lampert, A. Stumpf, and P. Gancarski, 'An Empirical Study into Annotator Agreement, Ground Truth Estimation, and Algorithm Evaluation’, IEEE Transactions on Image Processing (accepted).
+T. Lampert, A. Stumpf, and P. Gancarski, 'An Empirical Study into Annotator Agreement, Ground Truth Estimation, and Algorithm Evaluation’, IEEE Transactions on Image Processing 25 (6): 2557–2572, 2016.
 
 It contains implementations of the functions described within the paper related to agreement analysis and the
 evaluation of detectors using different ground truth estimation techniques. It may also be used to recreate the 

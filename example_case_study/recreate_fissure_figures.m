@@ -8,7 +8,8 @@ function recreate_fissure_figures
 %
 %	T. Lampert, A. Stumpf, and P. Gancarski, 'An Empirical Study into 
 %       Annotator Agreement, Ground Truth Estimation, and Algorithm 
-%       Evaluation', IEEE Transactions on Image Processing (accepted).
+%       Evaluation', IEEE Transactions on Image Processing 25 (6): 
+%       2557–2572, 2016.
 %
 % This is a good starting point to follow and understand the included
 % functions. All of the outputs will be placed within a folder called

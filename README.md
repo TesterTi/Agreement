@@ -68,3 +68,4 @@ This toolbox contains parts of the following software:
 ## Version History
 
 v1.0 (4/10/2013) Initial Release
+[![Analytics](https://ga-beacon.appspot.com/UA-112264682-2/welcome-page?pixel)](https://github.com/igrigorik/ga-beacon)
